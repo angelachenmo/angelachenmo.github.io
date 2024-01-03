@@ -1,53 +1,51 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Angela Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Angela
+last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍🎓️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: UBC Mater of Data Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Business👩🏻‍💼, Data Science 👩🏻‍💻, Research 👩🏻‍🔬, Social Good 👩🏻‍🏭 | Always believe in the good, powered by science and kindness
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Psychology
+  - Social Good
+  - B2C
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Data Science
+      institution: The University of British Columbia
+      year: 2024
+    - course: Bachelor of Commerce - MIS
+      institution: The University of British Columbia
+      year: 2019
+    - course: International Baccalaureate Diplopa (IB DP)
+      institution: Beijing City International School
+      year: 2015
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
@@ -75,10 +73,10 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Skiing
         description: ''
         percent: 100
-        icon: cat
+        icon: skiing
         icon_pack: fas
       - name: Photography
         description: ''
@@ -87,28 +85,25 @@ skills:
         icon_pack: fas
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: medium
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://datasciangela.medium.com/
+    label: My life reflections :)
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/angelachenmo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/datasciangela
+  
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +115,12 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Business 👩🏻‍💼, Data Science 👩🏻‍💻, Research 👩🏻‍🔬, Social Good 👩🏻‍🏭 are my areas of focus.
+
+I live in 🇨🇦, was made in 🇨🇳, and my mind belongs to 🌏! A humanitarian by heart. 
+
+I genuinely believe in good people and the capability that we can all make a difference in our society with the power of kindness, science, and research. 
+
+I enjoy talking with great minds coming from all fields.
+
 {style="text-align: justify;"}
