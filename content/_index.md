@@ -142,7 +142,7 @@ sections:
           location: Calgary
           date_start: '2019-09-01'
           date_end: '2020-09-01'
-          description: 2-
+          description: |2-
               Responsibilities include:
 
               * ETL
