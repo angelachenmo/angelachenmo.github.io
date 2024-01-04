@@ -101,11 +101,11 @@ sections:
           description: |2-
               Responsibilities include:
 
-              Alteryx
-              Data Conversion
-              ETL Automation
-              Client Facing        
-      - title: System Analyst
+              * Alteryx
+              * Data Conversion
+              * ETL Automation
+              * Client Facing        
+        - title: System Analyst
           company: PHS Community Services Society
           company_url: ''
           company_logo: org-gc
@@ -115,10 +115,11 @@ sections:
           description: |2-
               Responsibilities include:
 
-              Automation
-              ETL
-              Data Cleaning
-              Social Good
+              * Automation
+              * ETL
+              * Data Cleaning
+              * Social Good
+
         - title: Technical Specialist
           company: Imperva
           company_url: ''
@@ -129,10 +130,11 @@ sections:
           description: 2-
               Responsibilities include:
 
-              MongoDB,
-              Python, Linux, JSON file
-              Data Scraping
-              Debugging
+              * MongoDB,
+              * Python, Linux, JSON file
+              * Data Scraping
+              * Debugging
+
         - title: Technology Associate
           company: PwC Canada
           company_url: ''
@@ -143,11 +145,11 @@ sections:
           description: 2-
               Responsibilities include:
 
-              ETL
-              Dashboards
-              R & Python
-              Tableau
-              SQLserver
+              * ETL
+              * Dashboards
+              * R & Python
+              * Tableau
+              * SQLserver
     design:
       columns: '2'
   - block: accomplishments
