@@ -169,7 +169,6 @@ sections:
           date_end: ''
           date_start: '2014-01-01'
           description: '40/42 IB Grade'
-          #icon: coursera
           organization: Beijing City International School
           organization_url: http://www.bcis.cn
           title: High Honor Roll
@@ -178,7 +177,6 @@ sections:
           date_end: ''
           date_start: '2015-01-01'
           description: '40/42 IB Grade'
-          #icon: coursera
           organization: Beijing City International School
           organization_url: http://www.bcis.cn
           title: High Honor Roll
@@ -187,7 +185,6 @@ sections:
           date_end: ''
           date_start: '2015-05-01'
           description: '$8000 Entrance Scholarship for Outstanding incoming students with an average grade of 95% or higher upon application '
-          #icon: edx
           organization: The University of British Columbia
           organization_url: 'https://www.ubc.ca/'
           title: UBC’s outstanding international student Awards (Scholarship) | UBC’s Chancellor’s Scholar Designation
@@ -196,7 +193,6 @@ sections:
           date_end: ''
           date_start: '2016-06-01'
           description: 'Scholarship of $10,000'
-          #icon: datacamp
           organization: The University of British Columbia
           organization_url: 'https://www.ubc.ca/'
           title: 'Dean's Honour Roll | The Sauder School of Business International Student Scholarship'
@@ -205,7 +201,6 @@ sections:
           date_end: ''
           date_start: '2017-10-01'
           description: ''
-          #icon: coursera
           organization: The University of British Columbia
           organization_url: 'https://www.ubc.ca/'
           title: Sauder School of Business International Student Scholarship (Scholarship $10,000)
@@ -214,7 +209,6 @@ sections:
           date_end: ''
           date_start: '2019-05-01'
           description: ''
-          #icon: coursera
           organization: The University of British Columbia
           organization_url: 'https://www.ubc.ca/'
           title: Dean's Honour Roll
@@ -223,7 +217,6 @@ sections:
           date_end: ''
           date_start: '2020-06-01'
           description: ''
-          #icon: coursera
           organization: UiPath
           organization_url: https://www.uipath.com/
           title: Robotic Process Automation Developer Foundation
@@ -232,7 +225,6 @@ sections:
           date_end: ''
           date_start: '2020-07-31'
           description: ''
-          #icon: coursera
           organization: UiPath
           organization_url: https://www.uipath.com/
           title: Robotic Process Automation Developer Advanced
