@@ -195,7 +195,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2016-06-01'
-          description: 'Scholarship of $10,000 offering students who demonstrate strong academic achievement, engagement in their faculty, and the potential to make a scholarly contribution within their chosen field of study.'
+          description: 'Scholarship of $10,000'
           #icon: datacamp
           organization: UBC
           organization_url: ''
