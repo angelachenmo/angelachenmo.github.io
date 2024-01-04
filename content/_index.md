@@ -185,15 +185,15 @@ sections:
           date_end: ''
           date_start: '2015-05-01'
           description: '$8000 Entrance Scholarship for Outstanding incoming students with an average grade of 95% or higher upon application '
-          organization: The University of British Columbia
+          organization: 'The University of British Columbia'
           organization_url: 'https://www.ubc.ca/'
-          title: UBC’s outstanding international student Awards (Scholarship) | UBC’s Chancellor’s Scholar Designation
+          title: UBC’s outstanding international student Awards (Scholarship) and UBC’s Chancellor’s Scholar Designation
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2016-06-01'
           description: 'Scholarship of $10,000'
-          organization: The University of British Columbia
+          organization: 'The University of British Columbia'
           organization_url: 'https://www.ubc.ca/'
           title: 'Dean's Honour Roll & The Sauder School of Business International Student Scholarship'
           url: ''
@@ -201,7 +201,7 @@ sections:
           date_end: ''
           date_start: '2017-10-01'
           description: ''
-          organization: The University of British Columbia
+          organization: 'The University of British Columbia'
           organization_url: 'https://www.ubc.ca/'
           title: Sauder School of Business International Student Scholarship (Scholarship $10,000)
           url: ''
@@ -209,7 +209,7 @@ sections:
           date_end: ''
           date_start: '2019-05-01'
           description: ''
-          organization: The University of British Columbia
+          organization: 'The University of British Columbia'
           organization_url: 'https://www.ubc.ca/'
           title: Dean's Honour Roll
           url: ''
