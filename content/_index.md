@@ -90,8 +90,7 @@ sections:
               * ClientFacing
               * Project Management
               * Data Wrangling
-              * Machine Learning
-            
+              * Machine Learning   
         - title: Data Consultant
           company: ADP Canada
           company_url: ''
@@ -105,8 +104,7 @@ sections:
               * Alteryx
               * Data Conversion
               * ETL Automation
-              * Client Facing
-          
+              * Client Facing        
       - title: System Analyst
           company: PHS Community Services Society
           company_url: ''
@@ -121,7 +119,6 @@ sections:
               * ETL
               * Data Cleaning
               * Social Good
-
         - title: Technical Specialist
           company: Imperva
           company_url: ''
@@ -136,7 +133,6 @@ sections:
               * Python, Linux, JSON file
               * Data Scraping
               * Debugging
-
         - title: Technology Associate
           company: PwC Canada
           company_url: ''
