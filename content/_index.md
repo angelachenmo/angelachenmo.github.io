@@ -195,7 +195,7 @@ sections:
           description: 'Scholarship of $10,000'
           organization: The University of British Columbia
           organization_url: 'https://www.ubc.ca/'
-          title: 'Dean's Honour Roll | The Sauder School of Business International Student Scholarship'
+          title: 'Dean's Honour Roll & The Sauder School of Business International Student Scholarship'
           url: ''
         - certificate_url: ''
           date_end: ''
