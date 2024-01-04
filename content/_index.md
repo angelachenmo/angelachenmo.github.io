@@ -127,7 +127,7 @@ sections:
           location: Vancouver
           date_start: '2020-11-01'
           date_end: '2021-02-01'
-          description: 2-
+          description: |2-
               Responsibilities include:
 
               * MongoDB,
