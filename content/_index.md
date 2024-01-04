@@ -62,27 +62,96 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Advanced Research Assistant
+          company: UBC
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Vancouver
+          date_start: '2023-06-01'
+          date_end: '2023-09-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Higher Education
+              * Research
+              * Python, R, Py2RConversion
+              * Instructional Designfor ECON, SOCI
+        - title: Data Science Consultant & Project Manager
+          company: Women In Data Science
+          company_url: ''
+          company_logo: org-gc
+          location: Vancouver
+          date_start: '2023-01-01'
+          date_end: '2023-05-01'
+          description: |2-
+              Responsibilities include:
+
+              * DataScience
+              * ClientFacing
+              * Project Management
+              * Data Wrangling
+              * Machine Learning
+            
+        - title: Data Consultant
+          company: ADP Canada
+          company_url: ''
+          company_logo: org-gc
+          location: Vancouver
+          date_start: '2021-06-01'
+          date_end: '2022-09-01'
+          description: |2-
+              Responsibilities include:
+
+              * Alteryx
+              * Data Conversion
+              * ETL Automation
+              * Client Facing
+          
+      - title: System Analyst
+          company: PHS Community Services Society
+          company_url: ''
+          company_logo: org-gc
+          location: Vancouver
+          date_start: '2021-03-01'
+          date_end: '2021-06-01'
+          description: |2-
+              Responsibilities include:
+
+              * Automation
+              * ETL
+              * Data Cleaning
+              * Social Good
+
+        - title: Technical Specialist
+          company: Imperva
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Vancouver
+          date_start: '2020-11-01'
+          date_end: '2021-02-01'
+          description: 2-
+              Responsibilities include:
+
+              * MongoDB,
+              * Python, Linux, JSON file
+              * Data Scraping
+              * Debugging
+
+        - title: Technology Associate
+          company: PwC Canada
+          company_url: ''
+          company_logo: org-x
+          location: Calgary
+          date_start: '2019-09-01'
+          date_end: '2020-09-01'
+          description: 2-
+              Responsibilities include:
+
+              * ETL
+              * Dashboards
+              * R & Python
+              * Tableau
+              * SQLserver
     design:
       columns: '2'
   - block: accomplishments
@@ -98,32 +167,77 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2014-01-01'
+          description: '40/42 IB Grade'
+          #icon: coursera
+          organization: Beijing City International School
+          organization_url: http://www.bcis.cn
+          title: High Honor Roll
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2015-01-01'
+          description: '40/42 IB Grade'
+          #icon: coursera
+          organization: Beijing City International School
+          organization_url: http://www.bcis.cn
+          title: High Honor Roll
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2015-05-01'
+          description: '$8000 Entrance Scholarship for Outstanding incoming students with an average grade of 95% or higher upon application '
+          #icon: edx
+          organization: UBC
+          organization_url: ''
+          title: UBC’s outstanding international student Awards (Scholarship) | UBC’s Chancellor’s Scholar Designation
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2016-06-01'
+          description: 'Scholarship of $10,000 offering students who demonstrate strong academic achievement, engagement in their faculty, and the potential to make a scholarly contribution within their chosen field of study.'
+          #icon: datacamp
+          organization: UBC
+          organization_url: ''
+          title: 'Dean's Honour Roll | The Sauder School of Business International Student Scholarship'
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2017-10-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          #icon: coursera
+          organization: UBC
+          organization_url: ''
+          title: Sauder School of Business International Student Scholarship (Scholarship $10,000)
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-05-01'
+          description: ''
+          #icon: coursera
+          organization: UBC
+          organization_url: ''
+          title: Dean's Honour Roll
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-06-01'
+          description: ''
+          #icon: coursera
+          organization: UiPath
+          organization_url: https://www.uipath.com/
+          title: Robotic Process Automation Developer Foundation
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-07-31'
+          description: ''
+          #icon: coursera
+          organization: UiPath
+          organization_url: https://www.uipath.com/
+          title: Robotic Process Automation Developer Advanced
           url: ''
     design:
       columns: '2'
@@ -237,47 +351,47 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      email: realangelachen@gmail.com
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # # Choose a map provider in `params.yaml` to show a map from these coordinates
+      # coordinates:
+      #   latitude: '37.4275'
+      #   longitude: '-122.1697'  
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/Twitter'
+      #   - icon: skype
+      #     icon_pack: fab
+      #     name: Skype Me
+      #     link: 'skype:echo123?call'
+      #   - icon: video
+      #     icon_pack: fas
+      #     name: Zoom Me
+      #     link: 'https://zoom.com'
+      # # Automatically link email and phone or display as text?
+      # autolink: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
