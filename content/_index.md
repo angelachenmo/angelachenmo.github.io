@@ -196,6 +196,7 @@ sections:
           date_end: ''
           date_start: '2016-06-01'
           description: 'Scholarship of $10,000'
+          #icon: datacamp
           organization: UBC
           organization_url: ''
           title: 'Dean's Honour Roll | The Sauder School of Business International Student Scholarship'
