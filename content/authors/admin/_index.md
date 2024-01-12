@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: UBC Mater of Data Science Student
+role: I am an accomplished data professional with a rich history of success spanning five years in the Canadian landscape. Throughout my career, I have demonstrated a keen ability to collaborate with diverse stakeholders, translating real-world challenges into scalable and automated technical solutions.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,10 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Data Science
-      institution: The University of British Columbia
-      year: 2024
-    - course: Bachelor of Commerce - MIS
+    - course: Bachelor of Commerce - Management Information System
       institution: The University of British Columbia
       year: 2019
     - course: International Baccalaureate Diplopa (IB DP)
