@@ -14,11 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: I live in 🇨🇦, was made in 🇨🇳, and my mind belongs to 🌏! A humanitarian by heart. 
-
-I genuinely believe in good people and the capability that we can all make a difference in our society with the power of kindness, science, and research. 
-
-I enjoy talking with great minds coming from all fields.
+role: I live in 🇨🇦, was made in 🇨🇳, and my mind belongs to 🌏! A humanitarian by heart. I genuinely believe in good people and the capability that we can all make a difference in our society with the power of kindness, science, and research. I enjoy talking with great minds coming from all fields.
 
 # Organizations/Affiliations to show in About widget
 organizations:
