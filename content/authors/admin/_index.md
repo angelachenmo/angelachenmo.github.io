@@ -61,7 +61,7 @@ skills:
         percent: 100
         icon: database
         icon_pack: fas
-  - name: Business
+  - name: Hobby
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
