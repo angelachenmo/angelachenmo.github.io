@@ -14,7 +14,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: I am an accomplished data professional with a rich history of success spanning five years in the Canadian landscape. Throughout my career, I have demonstrated a keen ability to collaborate with diverse stakeholders, translating real-world challenges into scalable and automated technical solutions.
+role: Hi :) I am a dedicated product analytics professional with a successful five-year track record in the Canadian industry. My career has been marked by my ability to foster collaborations with a variety of stakeholders, transforming real-world problems into scalable, automated technical solutions.
+My unique skill set lies at the crossroads of Product, Data Science, and Business Analytics. Here, I've developed a robust business sense and refined my communication, presentation, and interpersonal skills. I'm known for my ability to quickly grasp new concepts, pay attention to detail, and thrive in fast-paced work environments.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,15 +23,15 @@ organizations:
     url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Business👩🏻‍💼, Data Science 👩🏻‍💻, Research 👩🏻‍🔬, Social Good 👩🏻‍🏭 | Always believe in the good, powered by science and kindness
+bio: Product 👩🏻‍🔬, Business Analytics👩🏻‍💼, Data Science 👩🏻‍💻, Social Good 👩🏻‍🏭 | Always believe in the good, powered by science and kindness
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Psychology
+  - Product Management
+  - Business & Analytics
+  - Data Science
   - Social Good
-  - B2C
+  - B2B
 
 # Education to show in About widget
 education:
@@ -48,12 +49,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 90
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: BI tools
         description: ''
-        percent: 95
+        percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -61,13 +62,13 @@ skills:
         percent: 100
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Business
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 80
+        percent: 90
         icon: person-hiking
         icon_pack: fas
       - name: Skiing
@@ -77,7 +78,7 @@ skills:
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 60
+        percent: 80
         icon: camera-retro
         icon_pack: fas
 
@@ -111,8 +112,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Business 👩🏻‍💼, Data Science 👩🏻‍💻, Research 👩🏻‍🔬, Social Good 👩🏻‍🏭 are my areas of focus.
 
 I live in 🇨🇦, was made in 🇨🇳, and my mind belongs to 🌏! A humanitarian by heart. 
 
