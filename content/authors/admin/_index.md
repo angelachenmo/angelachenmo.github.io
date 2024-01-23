@@ -14,7 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Hi :) I am a dedicated product analytics professional with a successful five-year track record in the Canadian industry. My career has been marked by my ability to foster collaborations with a variety of stakeholders, transforming real-world problems into scalable, automated technical solutions. My unique skill set lies at the crossroads of Product, Data Science, and Business Analytics. Here, I've developed a robust business sense and refined my communication, presentation, and interpersonal skills. I'm known for my ability to quickly grasp new concepts, pay attention to detail, and thrive in fast-paced work environments.
+role: I live in 🇨🇦, was made in 🇨🇳, and my mind belongs to 🌏! A humanitarian by heart. 
+
+I genuinely believe in good people and the capability that we can all make a difference in our society with the power of kindness, science, and research. 
+
+I enjoy talking with great minds coming from all fields.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -111,11 +115,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Product 👩🏻‍🔬, Business Analytics👩🏻‍💼, Data Science 👩🏻‍💻, Social Good 👩🏻‍🏭  
 
-I live in 🇨🇦, was made in 🇨🇳, and my mind belongs to 🌏! A humanitarian by heart. 
+Always believe in the good, powered by science and kindness
 
-I genuinely believe in good people and the capability that we can all make a difference in our society with the power of kindness, science, and research. 
-
-I enjoy talking with great minds coming from all fields.
+Hi！ I am a dedicated product analytics professional with a successful five-year track record in the Canadian industry. My career has been marked by my ability to foster collaborations with a variety of stakeholders, transforming real-world problems into scalable, automated technical solutions. My unique skill set lies at the crossroads of Product, Data Science, and Business Analytics. Here, I’ve developed a robust business sense and refined my communication, presentation, and interpersonal skills. I’m known for my ability to quickly grasp new concepts, pay attention to detail, and thrive in fast-paced work environments.
 
 {style="text-align: justify;"}
