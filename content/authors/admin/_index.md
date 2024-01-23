@@ -112,7 +112,7 @@ highlight_name: true
 ---
 Product 👩🏻‍🔬, Business Analytics👩🏻‍💼, Data Science 👩🏻‍💻, Social Good 👩🏻‍🏭  
 
-Always believe in the good, powered by science and kindness
+Always believe in the good, powered by science and kindness!
 
 I am a dedicated product analytics professional with a successful five-year track record in the Canadian industry. My career has been marked by my ability to foster collaborations with a variety of stakeholders, transforming real-world problems into scalable, automated technical solutions. My unique skill set lies at the crossroads of Product, Data Science, and Business Analytics. Here, I’ve developed a robust business sense and refined my communication, presentation, and interpersonal skills. I’m known for my ability to quickly grasp new concepts, pay attention to detail, and thrive in fast-paced work environments.
 
