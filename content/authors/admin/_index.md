@@ -22,11 +22,11 @@ organizations:
     url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Product 👩🏻‍🔬, Business Analytics👩🏻‍💼, Data Science 👩🏻‍💻, Social Good 👩🏻‍🏭 | Always believe in the good, powered by science and kindness
+bio: Technology 👩🏻‍🔬, Business Intelligence👩🏻‍💼, Data Analytics 👩🏻‍💻, Social Good 👩🏻‍🏭 | Always believe in the good, powered by science and kindness
 
 # Interests to show in About widget
 interests:
-  - Product Management
+  - Technology
   - Business & Analytics
   - Data Science
   - Social Good
@@ -110,10 +110,17 @@ social:
 
 highlight_name: true
 ---
-Product 👩🏻‍🔬, Business Analytics👩🏻‍💼, Data Science 👩🏻‍💻, Social Good 👩🏻‍🏭  
+Technology 👩🏻‍🔬, Business Intelligence👩🏻‍💼, Data Analytics 👩🏻‍💻, Social Good 👩🏻‍🏭 are my areas of focus.
 
 Always believe in the good, powered by science and kindness!
 
-I am a dedicated product analytics professional with a successful five-year track record in the Canadian industry. My career has been marked by my ability to foster collaborations with a variety of stakeholders, transforming real-world problems into scalable, automated technical solutions. My unique skill set lies at the crossroads of Product, Data Science, and Business Analytics. Here, I’ve developed a robust business sense and refined my communication, presentation, and interpersonal skills. I’m known for my ability to quickly grasp new concepts, pay attention to detail, and thrive in fast-paced work environments.
+I am an accomplished data professional with a rich history of success spanning five years in the Canadian landscape. Throughout my career, I have demonstrated a keen ability to collaborate with diverse stakeholders, translating real-world challenges into scalable and automated technical solutions. 
+
+My expertise lies at the intersection of Data analytics, Technology, and Business Intelligence, where I have cultivated a strong business acumen and honed exceptional communication, presentation, and interpersonal skills.
+
+As a data analyst/consultant, I have consistently delivered valuable insights and actionable recommendations to drive business growth and enhance decision-making processes. I am adept at ETL with complex datasets using SQL, Python, and Tableau. 
+
+Beyond my technical skills, I possess a strong business mindset, enabling me to effectively understand and address the unique challenges faced by organizations. I have successfully collaborated with cross-functional teams, including product, marketing, and HR, to drive data initiatives and deliver impactful results. I am confident in my ability to dive deep into data sets to uncover patterns, trends, and opportunities that empower businesses to make informed decisions.
+
 
 {style="text-align: justify;"}
