@@ -62,6 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Digital Analyst
+          company: Lululemon
+          company_url: 'https://shop.lululemon.com/en-ca/'
+          company_logo: org-gc
+          location: Vancouver
+          date_start: '2024-07-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Data Analytics
+              * Insights & Revenue Projections
+              * Project Management
+              * A/B Testing
+              * Strategic Forecasting 
         - title: Senior Advanced Research Assistant
           company: UBC
           company_url: ''
@@ -73,6 +88,7 @@ sections:
               Responsibilities include:
 
               * Higher Education
+              * Strategy
               * Research
               * Python, R, Py2RConversion
               * Instructional Designfor ECON, SOCI
@@ -86,8 +102,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * DataScience
-              * ClientFacing
+              * Data Science
+              * Consulting
               * Project Management
               * Data Wrangling
               * Machine Learning   
@@ -101,7 +117,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Alteryx
+              * Consulting
+              * Research
+              * Strategy
               * Data Conversion
               * ETL Automation
               * Client Facing        
@@ -116,6 +134,7 @@ sections:
               Responsibilities include:
 
               * Automation
+              * Strategy
               * ETL
               * Data Cleaning
               * Social Good
@@ -130,26 +149,28 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * MongoDB,
+              * MongoDB
               * Python, Linux, JSON file
               * Data Scraping
               * Debugging
+              * Forecasting
 
-        - title: Technology Associate
+        - title: Technology Consulting Associate
           company: PwC Canada
           company_url: ''
           company_logo: org-x
           location: Calgary
-          date_start: '2019-09-01'
-          date_end: '2020-09-01'
+          date_start: '2019-07-01'
+          date_end: '2020-07-01'
           description: |2-
               Responsibilities include:
 
-              * ETL
-              * Dashboards
+              * Management Consulting
+              * Dashboards and Visualization
               * R & Python
-              * Tableau
-              * SQLserver
+              * Tableau & Power BI
+              * Research
+              * Strategic Planning
     design:
       columns: '2'
   - block: accomplishments
