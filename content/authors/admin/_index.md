@@ -69,17 +69,17 @@ skills:
       - name: Management Consulting
         description: ''
         percent: 100
-        icon: business
+        icon: business-time
         icon_pack: fas
       - name: Market Research
         description: ''
         percent: 100
-        icon: research
+        icon: book
         icon_pack: fas
       - name: Presentation
         description: ''
         percent: 100
-        icon: book
+        icon: presentation-screen
         icon_pack: fas
 
 # Social/Academic Networking
