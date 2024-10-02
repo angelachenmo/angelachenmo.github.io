@@ -22,15 +22,16 @@ organizations:
     url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Technology 👩🏻‍🔬, Business Intelligence👩🏻‍💼, Data Analytics 👩🏻‍💻, Social Good 👩🏻‍🏭 | Always believe in the good, powered by science and kindness
+bio: Research 👩🏻‍🔬, Consulting 👩🏻‍💼, Data Science 👩🏻‍💻, Strategy 👩🏻‍🏭 | Always believe in the good, powered by science and kindness
 
 # Interests to show in About widget
-interests:
-  - Technology
+Competencies:
+  - Management Consulting
+  - Market Research
   - Business & Analytics
   - Data Science
-  - Social Good
-  - B2B
+  - Marketing Strategy
+  - Communication
 
 # Education to show in About widget
 education:
@@ -38,13 +39,13 @@ education:
     - course: Bachelor of Commerce - Management Information System
       institution: The University of British Columbia
       year: 2019
-    - course: International Baccalaureate Diplopa (IB DP)
+    - course: International Baccalaureate Diploma (IB DP)
       institution: Beijing City International School
       year: 2015
 
 # Skills
 skills:
-  - name: Technical
+  - name: Data & Insights
     items:
       - name: Python
         description: ''
@@ -61,24 +62,24 @@ skills:
         percent: 100
         icon: database
         icon_pack: fas
-  - name: Hobby
+  - name: Business & Consulting
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 90
-        icon: person-hiking
-        icon_pack: fas
-      - name: Skiing
+      - name: Management Consulting
         description: ''
         percent: 100
-        icon: skiing
+        icon: business
         icon_pack: fas
-      - name: Photography
+      - name: Market Research
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: research
+        icon_pack: fas
+      - name: Presentation
+        description: ''
+        percent: 100
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
